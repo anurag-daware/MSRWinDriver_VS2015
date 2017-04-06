@@ -1,0 +1,22 @@
+﻿  Building 'MSR' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\MSR.inf [Version] section with DriverVer=04/06/2017,16.53.11.254
+  msrmain.c
+  MSR.vcxproj -> C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\x64\Release\MSR.sys
+  MSR.vcxproj -> C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\x64\Release\MSR.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\x64\Release\MSR.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\x64\Release\MSR\msr.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\x64\Release\MSR\msr.cat
+  

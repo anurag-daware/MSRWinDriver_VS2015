@@ -1,0 +1,23 @@
+﻿  Building 'MSR' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Release\MSR.inf [Version] section with DriverVer=03/31/2017,10.54.0.3
+  msrmain.c
+  MSR.vcxproj -> C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\Release\MSR.sys
+  MSR.vcxproj -> C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\Release\MSR.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\Release\MSR.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\Release\MSR\msr.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\adaware@nvidia.com\Documents\Visual Studio 2015\Projects\MSR\Release\MSR\msr.cat
+  
